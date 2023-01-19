@@ -2,5 +2,11 @@ cbow_embeddings/
 data/
 skipgram_embeddings/
 .ipynb_checkpoints/
+
 mnist_stats.png
 optimization.png
+
+elmo_embeddings/
+glove_embeddings/
+
+tfhub_modules
