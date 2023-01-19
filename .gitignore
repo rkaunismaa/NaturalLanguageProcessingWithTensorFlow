@@ -10,3 +10,5 @@ elmo_embeddings/
 glove_embeddings/
 
 tfhub_modules
+
+grimmtmp/
