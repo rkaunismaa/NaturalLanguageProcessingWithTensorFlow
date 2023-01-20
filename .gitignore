@@ -12,3 +12,8 @@ glove_embeddings/
 tfhub_modules
 
 grimmtmp/
+
+nmtData/
+
+__pycache__/
+
